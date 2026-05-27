@@ -2,7 +2,7 @@
 
 **Open benchmark for evaluating LLMs on Spanish-language EU regulation (AI Act, GDPR).**
 
-> Work in progress
+> Work in progress. First stable release expected in late 2026.
 
 ## Overview
 

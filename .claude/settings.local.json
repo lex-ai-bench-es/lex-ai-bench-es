@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv run *)",
+      "Bash(python *)",
+      "Bash(ls pyproject.toml)",
+      "Bash(ls setup.cfg)",
+      "Bash(ls requirements*.txt)",
+      "Bash(pip install *)",
+      "PowerShell(python -c \"from ai_act_rgpd_es.evaluation import parse_mc_response, score_mc, score_short_exact, score_short_f1, normalize_text; print\\('import OK'\\); print\\(normalize_text\\('Árticulo 5, RGPD.'\\)\\); print\\(parse_mc_response\\('La respuesta es B\\)'\\)\\); print\\(score_short_f1\\('reglamento general de proteccion de datos', 'RGPD', aliases=['Reglamento General de Protección de Datos']\\)\\)\")",
+      "PowerShell(python -c \"import sys; sys.path.insert\\(0, 'src'\\); from ai_act_rgpd_es.evaluation import parse_mc_response, score_mc, score_short_exact, score_short_f1, normalize_text; print\\('import OK'\\); print\\(normalize_text\\('Articulo 5, RGPD.'\\)\\); print\\(parse_mc_response\\('La respuesta es B\\)'\\)\\); print\\(score_short_f1\\('reglamento general de proteccion de datos', 'RGPD', aliases=['Reglamento General de Proteccion de Datos']\\)\\)\")",
+      "Bash(uv pip *)",
+      "Bash(ls .git/hooks/)",
+      "Bash(cat .git/hooks/pre-commit)",
+      "Bash(git restore *)",
+      "Bash(echo.)",
+      "Bash(git check-ignore *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
+    ]
+  }
+}

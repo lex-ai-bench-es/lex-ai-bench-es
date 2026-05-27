@@ -1,0 +1,225 @@
+{
+  "model": "llama-3.1-8b-instant",
+  "results": [
+    {
+      "id": "laibe-0001",
+      "task_type": "MC",
+      "norm": "RGPD",
+      "bloom": "L3",
+      "raw": "B",
+      "predicted": "B",
+      "correct": "B",
+      "score": 1,
+      "latency_s": 0.24741660000290722
+    },
+    {
+      "id": "laibe-0002",
+      "task_type": "SHORT",
+      "norm": "RGPD",
+      "bloom": "L1",
+      "raw": "72 horas",
+      "gold": "72 horas",
+      "score_em": 1,
+      "score_f1": 1.0,
+      "latency_s": 0.15235459999530576
+    },
+    {
+      "id": "laibe-0003",
+      "task_type": "MC",
+      "norm": "AI_ACT",
+      "bloom": "L2",
+      "raw": "C",
+      "predicted": "C",
+      "correct": "C",
+      "score": 1,
+      "latency_s": 0.20280510000884533
+    },
+    {
+      "id": "laibe-0004",
+      "task_type": "SHORT",
+      "norm": "RGPD",
+      "bloom": "L1",
+      "raw": "Principio de finalidad (artículo 5 del RGPD)",
+      "gold": "limitación de la finalidad",
+      "score_em": 0,
+      "score_f1": 0.5,
+      "latency_s": 0.2033790000132285
+    },
+    {
+      "id": "laibe-0005",
+      "task_type": "MC",
+      "norm": "RGPD",
+      "bloom": "L2",
+      "raw": "D",
+      "predicted": "D",
+      "correct": "D",
+      "score": 1,
+      "latency_s": 0.10455930000171065
+    },
+    {
+      "id": "laibe-0006",
+      "task_type": "SHORT",
+      "norm": "RGPD",
+      "bloom": "L1",
+      "raw": "1 mes",
+      "gold": "un mes",
+      "score_em": 1,
+      "score_f1": 1.0,
+      "latency_s": 0.20276810001814738
+    },
+    {
+      "id": "laibe-0007",
+      "task_type": "MC",
+      "norm": "RGPD",
+      "bloom": "L3",
+      "raw": "A",
+      "predicted": "A",
+      "correct": "A",
+      "score": 1,
+      "latency_s": 0.10552670000470243
+    },
+    {
+      "id": "laibe-0008",
+      "task_type": "MC",
+      "norm": "RGPD",
+      "bloom": "L2",
+      "raw": "A",
+      "predicted": "A",
+      "correct": "A",
+      "score": 1,
+      "latency_s": 0.20039789998554625
+    },
+    {
+      "id": "laibe-0009",
+      "task_type": "MC",
+      "norm": "RGPD",
+      "bloom": "L1",
+      "raw": "D",
+      "predicted": "D",
+      "correct": "D",
+      "score": 1,
+      "latency_s": 0.20561360000283457
+    },
+    {
+      "id": "laibe-0010",
+      "task_type": "MC",
+      "norm": "RGPD",
+      "bloom": "L3",
+      "raw": "B",
+      "predicted": "B",
+      "correct": "B",
+      "score": 1,
+      "latency_s": 0.20557459999690764
+    },
+    {
+      "id": "laibe-0011",
+      "task_type": "MC",
+      "norm": "AI_ACT",
+      "bloom": "L1",
+      "raw": "D",
+      "predicted": "D",
+      "correct": "D",
+      "score": 1,
+      "latency_s": 0.20152899998356588
+    },
+    {
+      "id": "laibe-0012",
+      "task_type": "MC",
+      "norm": "AI_ACT",
+      "bloom": "L2",
+      "raw": "A",
+      "predicted": "A",
+      "correct": "A",
+      "score": 1,
+      "latency_s": 0.10229839998646639
+    },
+    {
+      "id": "laibe-0013",
+      "task_type": "SHORT",
+      "norm": "AI_ACT",
+      "bloom": "L1",
+      "raw": "20%",
+      "gold": "7%",
+      "score_em": 0,
+      "score_f1": 0.0,
+      "latency_s": 0.14398749999236315
+    },
+    {
+      "id": "laibe-0014",
+      "task_type": "MC",
+      "norm": "AI_ACT",
+      "bloom": "L3",
+      "raw": "C",
+      "predicted": "C",
+      "correct": "C",
+      "score": 1,
+      "latency_s": 0.12248499999986961
+    },
+    {
+      "id": "laibe-0015",
+      "task_type": "MC",
+      "norm": "AI_ACT",
+      "bloom": "L2",
+      "raw": "A",
+      "predicted": "A",
+      "correct": "D",
+      "score": 0,
+      "latency_s": 0.10797509999247268
+    },
+    {
+      "id": "laibe-0016",
+      "task_type": "MC",
+      "norm": "AI_ACT",
+      "bloom": "L2",
+      "raw": "A",
+      "predicted": "A",
+      "correct": "A",
+      "score": 1,
+      "latency_s": 0.09886759999790229
+    },
+    {
+      "id": "laibe-0017",
+      "task_type": "MC",
+      "norm": "AI_ACT",
+      "bloom": "L3",
+      "raw": "D",
+      "predicted": "D",
+      "correct": "D",
+      "score": 1,
+      "latency_s": 0.11063979999744333
+    },
+    {
+      "id": "laibe-0018",
+      "task_type": "MC",
+      "norm": "AIACT_RGPD",
+      "bloom": "L2",
+      "raw": "A",
+      "predicted": "A",
+      "correct": "A",
+      "score": 1,
+      "latency_s": 0.14103259998955764
+    },
+    {
+      "id": "laibe-0019",
+      "task_type": "MC",
+      "norm": "AIACT_RGPD",
+      "bloom": "L3",
+      "raw": "B",
+      "predicted": "B",
+      "correct": "B",
+      "score": 1,
+      "latency_s": 0.1687417000066489
+    },
+    {
+      "id": "laibe-0020",
+      "task_type": "MC",
+      "norm": "RGPD",
+      "bloom": "L2",
+      "raw": "C",
+      "predicted": "C",
+      "correct": "C",
+      "score": 1,
+      "latency_s": 0.10731699998723343
+    }
+  ]
+}

@@ -10,9 +10,9 @@ def test_import_datasets() -> None:
 
 
 def test_import_lm_eval() -> None:
-    import lm_eval
+    import lm_eval.evaluator
 
-    assert hasattr(lm_eval, "simple_evaluate")
+    assert hasattr(lm_eval.evaluator, "simple_evaluate")
 
 
 def test_import_inspect_ai() -> None:

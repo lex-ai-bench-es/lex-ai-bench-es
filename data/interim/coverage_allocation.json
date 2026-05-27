@@ -1,0 +1,33 @@
+{
+  "ai_act": {
+    "Disposiciones generales": 12,
+    "Practicas prohibidas": 19,
+    "Sistemas de alto riesgo (clasificacion)": 9,
+    "Requisitos sistemas alto riesgo": 15,
+    "Obligaciones proveedores y deployers": 16,
+    "Autoridades notificantes y organismos": 14,
+    "Modelos GPAI": 15,
+    "Sandboxes regulatorios": 16,
+    "Gobernanza": 9,
+    "Sanciones": 6,
+    "Entrada en vigor": 19
+  },
+  "rgpd": {
+    "Disposiciones generales y ambito": 7,
+    "Principios": 6,
+    "Bases juridicas": 9,
+    "Derechos del interesado": 24,
+    "Obligaciones responsable y encargado": 11,
+    "Seguridad y brechas": 8,
+    "DPIA y DPO": 12,
+    "Transferencias internacionales": 14,
+    "Autoridades de control": 18,
+    "Recursos y sanciones": 11
+  },
+  "metadata": {
+    "method": "proportional_to_article_length_with_min_floor",
+    "min_per_block": 5,
+    "total_ai_act": 150,
+    "total_rgpd": 120
+  }
+}
